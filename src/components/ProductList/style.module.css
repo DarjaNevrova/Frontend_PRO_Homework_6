@@ -1,0 +1,7 @@
+.productContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    justify-items: stretch;
+    margin-right: 550px;
+  }
+  

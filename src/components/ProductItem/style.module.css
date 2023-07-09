@@ -1,0 +1,21 @@
+.product{
+    border: 2px solid black;
+    width: 362px;
+    height: 209px;
+    margin-left: 375px;
+    margin-top: 50px;
+    margin-right: -400px;
+    border-radius: 10px;
+}
+
+.productTitle{
+    font-size: 30px;
+    margin-left: 30px;
+    font-weight: 700;
+}
+
+.productPrice{
+    font-size: 30px;
+    margin-left: 30px;
+    font-weight: 700;
+}
